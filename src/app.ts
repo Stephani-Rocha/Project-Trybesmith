@@ -4,4 +4,6 @@ const app = express();
 
 app.use(express.json());
 
+// mudei aqui
+
 export default app;
