@@ -1,7 +1,7 @@
 # Project Trybesmith
 
 # Contexto
-No projeto de backend Trybesmith, simulamos uma loja de itens medievais no qual através de #CRUDs foram realizadas operações de criação, leitura, atualização e exclusão de produtos, usuários e pedidos, tudo utilizando o MySQL. Como padrão de organização foi utilizado o MSC, o que contribuiu para a API ser REST.Para autenticar os usuários cadastrados foi utilizado o JWT que gera uma assinatura difgital (Token).Os commits estão no padrão convencional.
+No projeto de backend Trybesmith, simulamos uma loja de itens medievais no qual através de #CRUDs foram realizadas operações de criação, leitura, atualização e exclusão de produtos, usuários e pedidos, tudo utilizando o MySQL. Como padrão de organização de camadas foi utilizado o MSC (Model, Service, Controller), o que contribuiu para que a API seja REST. Para autenticar os usuários cadastrados foi utilizado o JWT que gera uma assinatura digital (Token).Os commits estão no padrão convencional.
 
 ## Tecnologias usadas
 Back-end:
