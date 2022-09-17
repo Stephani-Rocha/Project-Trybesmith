@@ -5,7 +5,7 @@ No projeto de backend Trybesmith, simulamos uma loja de itens medievais no qual 
 
 ## Tecnologias usadas
 Back-end:
-> Desenvolvido usando: NodeJS, ExpressJS, Docker, Typescript, MySQL, JWT.
+> Desenvolvido usando: Node, Express, Docker, Typescript, MySQL, JWT.
 ## Instalando Dependências
 > Backend
 ```bash
